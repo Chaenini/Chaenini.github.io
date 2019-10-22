@@ -8,8 +8,8 @@ System.out.println("채린이의 github에 오신것을 환영합니다♡");
 <div>Hello </div>
 ```
 
-*목록 1
-*목록 2
+* 목록 1
+* 목록 2
 
 You can use the [editor on GitHub](https://github.com/Chaenini/Chaenini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

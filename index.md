@@ -11,11 +11,9 @@ System.out.println("채린이의 github에 오신것을 환영합니다♡");
 * 목록 1
 * 목록 2
 
-![구글로 가기]
-(https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![구글로 가기](https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
-![내 사진]
-(myPic.jpg)
+![내 사진](myPic.jpg)
 
 You can use the [editor on GitHub](https://github.com/Chaenini/Chaenini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -11,6 +11,9 @@ System.out.println("채린이의 github에 오신것을 환영합니다♡");
 * 목록 1
 * 목록 2
 
+| 채린 | 2314 |
+| ---- | ---- |
+
 ![구글로 가기](https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 ![내 사진](myPic.jpg)
